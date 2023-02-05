@@ -19,6 +19,8 @@ These technologies help me to create the most modern and interesting websites �
 
 Here are not all the projects that I have been involved in, but in general they give performance of my abilities 😎
 <br/><br/><br/>
-And at the end, a joke for the most stubborn who have read this to the end
+And at the end, a joke for the most stubborn who have read this to the end ✌️
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+PS Don't forget to look at my projects 😉
