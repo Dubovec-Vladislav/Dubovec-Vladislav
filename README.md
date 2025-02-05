@@ -13,8 +13,7 @@
 📈 Я постоянно стремлюсь к саморазвитию и изучению новых технологий, чтобы оставаться в курсе последних тенденций в области веб-разработки.
 
 Приветствую новые вызовы и возможности для сотрудничества. Не стесняйтесь связаться со мной
-<div>через Telegram: https://t.me/Vlad_Dubovets</div>
-<div>через LinkedIn: https://www.linkedin.com/in/vladislav-dubovets-466578273</div>
+<div>через Telegram: https://t.me/Vlad_Dubovec</div>
 Дополнительную информацию о моем стеке и проектах: https://drive.google.com/file/d/1v3Cb6VLpCModceB54a5ruoQTfeJDno-U/view?usp=sharing
 
 <br/>
